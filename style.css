@@ -22,16 +22,6 @@ header {
   background-color: #090909;
 }
 
-h1 {
-  position: relative;
-  left: 3rem;
-  top: 12rem;
-  font-family: "Roboto mono";
-  font-size: 25px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 button {
   padding: 16px 24px;
   border-radius: 8px;
