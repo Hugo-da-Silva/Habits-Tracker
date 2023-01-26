@@ -16,7 +16,7 @@ O Habits é um app que te ajuda a rastrear suas principais atividades do dia-a-d
 - salvar as atividades feitas do dia
 - Visualizar tudo que foi feito anteriormente
 
-- [acesse todo projeto finalizado e funcional online]()
+- [acesse todo projeto finalizado e funcional online]( https://hugo-da-silva.github.io/Habits-Tracker/)
 
 ## Layout do Projeto🎨
 Você pode [clicar aqui](ma.com/file/AjpWy4xMadrQ9xBACB8iNh/Habits-(e)-(Community)?node-id=75%3A567&t=7lL2ZE3IpGohazQk-0) para
